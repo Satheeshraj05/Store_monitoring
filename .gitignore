@@ -1,0 +1,8 @@
+# Ignore store monitoring data directory
+store-monitoring-data/
+
+# Ignore generated reports
+reports/
+
+# Ignore system files
+.DS_Store
